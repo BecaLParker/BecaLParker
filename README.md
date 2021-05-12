@@ -1,10 +1,10 @@
-Here I am, making magic happen during my Makers Bootcamp:
-
-<img src="./PXL_20210504_112304441.PORTRAIT.jpg" alt="Photo of BecaLParker WFH" width="50%"/>
-
 ## Rebecca Parker
 
-![BecaLParker's Codewars badge](https://www.codewars.com/users/BecaLParker/badges/small)
+Here I am, making magic happen during my Makers Bootcamp:
+
+<p align="center"><img src="./PXL_20210504_112304441.PORTRAIT.jpg" alt="Photo of BecaLParker WFH" width="50%"/></p>
+
+<p align="center"><img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge" width="500"/></p>
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
