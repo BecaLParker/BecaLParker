@@ -1,3 +1,7 @@
+Here I am, making magic happen during my Makers Bootcamp:
+
+<img src="./PXL_20210504_112304441.PORTRAIT.jpg" alt="Photo of BecaLParker WFH" width="50%"/>
+
 ## Rebecca Parker
 
 ![BecaLParker's Codewars badge](https://www.codewars.com/users/BecaLParker/badges/small)
