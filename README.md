@@ -16,6 +16,48 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
+- Project management
+- Stakeholder management (DFE, external contractors, internal collaborators)
+- Recruiting and selecting external experts
+- GDPR data handling
+- Statisical data anlaysis (grading)
+- Assessment and testing best practices
+- Subscription model customer relations
+- Unconscious bias mitigation
+- Survey design and analysis
+- Events coordination
+- Planning and delivering CPD package for trainees and recently qualified science teachers
+- information and requirement gathering
+- probelm solving
+- 
+
+Makers
+## Coding practices
+- TDD anything AAA, Red, Green, Commit, Refactor
+- Strong debugger
+- github for team collaboration on code base 
+- travis and heroku for CI and CD
+- domain modelling
+- collaborative diagramming
+  - sequence diagamming
+  - class relationship cards
+  - flow chart / decision trees
+  - 
+
+### Terminal
+   - confortable on linux command line
+   - strong git command line
+   - some powrshell, incluing testing with pester
+
+### Technologies
+- Operating systems: OSX and Windows, *nix command line
+- testing syntax and frameworks: RSPEC (Ruby), Jasmine, Capybara, ...
+- languages: Ruby proficient, Javascript and C#, typscript basics, SQL basiscs,  ** how proficient **
+- web: REACT, Ruby on Rails, HTML, CSS
+
+### Working practices
+- Pair programming
+- Team rituals (Standups, retros etc)
 
 **Company Name** (start-date to end-date)  
 _Your job title_
