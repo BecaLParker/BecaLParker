@@ -123,3 +123,6 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+
+![Beca's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecaLParker&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BecaLParker&layout=compact&theme=radical)
