@@ -4,14 +4,17 @@ I am a career-changer, set to finish the [Makers developer bootcamp](https://mak
 
 <p align="center"><img src="./PXL_20210504_112304441.PORTRAIT.jpg" alt="Photo of BecaLParker WFH" width="50%"/></p>
 
-<p align="center"><img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge" width="500"/></p>
+<p align="center"><img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge" width="50%"/></p>
+
+
+<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=BecaLParker&show_icons=true&theme=radical" alt="BecaLParker's Github stats" width"50%"/></p>
 
 ## Currently reading/working on
 | Title                        | Author            | Notes             |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Learn React**](https://www.codecademy.com/learn/react-101)| Codecademy | I'm using this to learn the basic syntax of JSX and React for an upcoming project. React promises to be a useful tool to add to my existing Javascript single-page-app skills.|
 | **Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing** | Elisabeth Hendrickson | I'm enjoying this read because I'm interested in becoming a stellar tester, using exploratory testing appraches to analyze and investigate software systems. I've found this an easy and engaging read, because the underlying principles seem to echo those I grew confident discussing and applying to good assessment design in my previous role as a Product Manager for an international exam board.|
-| **A Philosophy of Software Design** | John Ousterhoust | The author's conclusion that _"Dealing with complexity is the most important challenge in software design"_ matches my experience so far developing software against seemingly simple user stories! This book was recommended to me after my week of work experience at [Redgate Software](https://www.red-gate.com/) and I'm keen to finish it because I've been working on my SOLID and TDD processes to reconcile interative, agile approaches, with the incremental nature of complexity. For each of the projects we've worked on at Makers, I've always found the planning and modelling stages to be secrectly really fascinating, and definately a key predictor of the final build success.|
+| **A Philosophy of Software Design** | John Ousterhoust | The author's conclusion that _"Dealing with complexity is the most important challenge in software design"_ matches my experience so far developing software against seemingly simple user stories! This book was recommended to me after my week of work experience at [Redgate Software](https://www.red-gate.com/) and I'm keen to finish it because I've been working on my SOLID and TDD processes to reconcile interative, agile approaches, with the incremental nature of complexity. For each of the projects we've worked on at Makers, I've always found the planning and modelling stages to be secrectly really fascinating, and definitely a key predictor of the final build success.|
 
 
 ## Projects
@@ -23,18 +26,18 @@ I am a career-changer, set to finish the [Makers developer bootcamp](https://mak
 
 ## Work Experience
 - Project management
-- Stakeholder management (DFE, external contractors, internal collaborators)
+- Stakeholder management (DFE, external contractors, internal collaborators) *
 - Recruiting and selecting external experts
 - GDPR data handling
 - Statisical data anlaysis (grading)
 - Assessment and testing best practices
 - Subscription model customer relations
-- Unconscious bias mitigation
+- Unconscious bias mitigation 
 - Survey design and analysis
 - Events coordination
 - Planning and delivering CPD package for trainees and recently qualified science teachers
-- information and requirement gathering
-- probelm solving
+- information and requirement gathering *
+- problem solving 
 - 
 
 Makers
@@ -128,7 +131,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Away from my desk, I recharge by running, gardening, reading and catching up on boxsets. 
 
-![Beca's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecaLParker&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BecaLParker&layout=compact&theme=radical)
+I love getting to know a new workteam through things like quizzes, boardgames, escape-rooms and kareoke.
+
