@@ -29,30 +29,12 @@ I am a career-changer, set to finish the [Makers developer bootcamp](https://mak
 - I participate with and evolve team rituals (stand-ups, retros etc)
 
 ### Technologies I've worked with
+|  	|  	|  	|
+|-	|-	|-	|
+| Operating systems: <br><li> OSX and Windows<br><br> 	| Terminal:<br><li> comfortable on Linux command line<br><li> strong git command line<br><li> some basic Powershell knowledge 	|  	|
+| Languages (in order of proficiency): <br><li> Ruby <br><li> Javascript<br><li> SQL <br><li> C#<br><li> TypeScript 	| Testing syntax and frameworks:<br><li> RSPEC (Ruby)<br><li> Capybara (Web UI testing)<br><li> Jasmine (Javascript)<br><li> Pester (Powershell) 	| Web: <br>REACT<br>Ruby on Rails <br>HTML<br>CSS 	|
 
-Operating systems:
-  - OSX and Windows
-    
-Terminal: 
-  - comfortable on Linux command line
-  - strong git command line
-  - some basic Powershell knowledge
-   
-Languages (in order of proficiency): 
-- Ruby 
-- Javascript
-- SQL 
-- C#
-- TypeScript
 > Take a look through [my GitHub repos](https://github.com/BecaLParker?tab=repositories) or [my Codewars solutions](https://www.codewars.com/users/BecaLParker/completed_solutions) to get a feel for my work in these languages.  
-  
-Testing syntax and frameworks: 
-- RSPEC (Ruby)
-- Capybara (Web UI testing)
-- Jasmine (Javascript)
-- Pester (Powershell)
-
-Web: REACT, Ruby on Rails, HTML, CSS
   
 ## Currently reading/working on
 
@@ -78,7 +60,9 @@ _Education Executive for trainee teacher scholarship scheme_ (Oct 2018 to Mar 20
 - Unconscious bias mitigation 
 - Events coordination
 
-Find out more about the impact of the scholarship scheme in this video. (Can you spot me at [1:45](https://youtu.be/5X0yjEV2YvY?t=104)?!) 
+Find out more about the impact of the scholarship scheme in this video.  
+> (Can you spot me at [1:45](https://youtu.be/5X0yjEV2YvY?t=104)?!)
+
 [![Impact of scholarship scheme](https://img.youtube.com/vi/5X0yjEV2YvY/0.jpg)](https://www.youtube.com/watch?v=5X0yjEV2YvY)
 
 
