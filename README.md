@@ -20,40 +20,39 @@ I am a career-changer, set to finish the [Makers developer bootcamp](https://mak
 | _"You delivered an amazing process, demonstrating the effort you have invested in learning test triangulation. [...] I believe you are at the stage where you can employ your process in the wild."_ | _"You regularly read the stack trace to ensure that you are up-to-date on all possible bugs [...] and used the output discrepancies to reason about the changes you’d make to your code."_| _"You chose descriptive names that communicated the intention behind your code, improving its human interpretation and thus its changeability. The same goes for your test names. Well done!"_|
 
 ### My working practices
-- I grow collaboratively
-  - Comfortable using GitHub processes for team collaboration on code base
-    - PR merge conflict resolution
-    - Raising issues and tickets on GitHub project boards
-    - Travis and heroku for CI and CD
-  - Comfortable using online tools to diagram, explore user stories and plan in teams
-  - I thrive in Pair-programming and mob environments
-  - I participate with and evolve team rituals (stand-ups, retros etc)
+- Comfortable using GitHub processes for team collaboration on code base
+  - PR merge conflict resolution
+  - Raising issues and tickets on GitHub project boards
+  - Travis and heroku for CI and CD
+- Comfortable using online tools to diagram, explore user stories and plan in teams
+- I thrive in pair-programming and mob environments
+- I participate with and evolve team rituals (stand-ups, retros etc)
 
 ### Technologies I've worked with
 
-- Operating systems:
-   - OSX and Windows
+Operating systems:
+  - OSX and Windows
     
-- Terminal: 
-   - comfortable on Linux command line
-   - strong git command line
-   - some basic Powershell knowledge
+Terminal: 
+  - comfortable on Linux command line
+  - strong git command line
+  - some basic Powershell knowledge
    
-- Languages (in order of proficiency): 
-  - Ruby 
-  - Javascript
-  - SQL 
-  - C#
-  - Typescript
-  - Take a look through [my GitHub repos](https://github.com/BecaLParker?tab=repositories) or [my Codewars solutions](https://www.codewars.com/users/BecaLParker/completed_solutions) to get a feel for my work in these languages.  
+Languages (in order of proficiency): 
+- Ruby 
+- Javascript
+- SQL 
+- C#
+- TypeScript
+> Take a look through [my GitHub repos](https://github.com/BecaLParker?tab=repositories) or [my Codewars solutions](https://www.codewars.com/users/BecaLParker/completed_solutions) to get a feel for my work in these languages.  
   
-- Testing syntax and frameworks: 
-  - RSPEC (Ruby)
-  - Capybara (Web UI testing)
-  - Jasmine (Javascript)
-  - Pester (Powershell)
+Testing syntax and frameworks: 
+- RSPEC (Ruby)
+- Capybara (Web UI testing)
+- Jasmine (Javascript)
+- Pester (Powershell)
 
-- Web: REACT, Ruby on Rails, HTML, CSS
+Web: REACT, Ruby on Rails, HTML, CSS
   
 ## Currently reading/working on
 
