@@ -61,7 +61,7 @@ I am a career-changer, set to finish the [Makers developer bootcamp](https://mak
 | ---------------------------- | ----------------- | ----------------- |
 | [**Learn React**](https://www.codecademy.com/learn/react-101)| Codecademy | I'm using this to learn the basic syntax of JSX and React for an upcoming project. React promises to be a useful tool to add to my existing Javascript single-page-app skills.|
 | [**Explore It!**: Reduce Risk and Increase Confidence with Exploratory Testing](https://pragprog.com/titles/ehxta/explore-it/) | Elisabeth Hendrickson | I'm enjoying this read because I'm interested in becoming a stellar tester, using exploratory testing approaches to analyze and investigate software systems. I've found this an easy and engaging read, because the underlying principles seem to echo those I grew confident discussing and applying to good assessment design in my previous role as a Product Manager for an international exam board.|
-| **A Philosophy of Software Design** | John Ousterhoust | The author's conclusion that _"Dealing with complexity is the most important challenge in software design"_ matches my experience so far developing software against seemingly simple user stories! This book was recommended to me after my week of work experience at [Redgate Software](https://www.red-gate.com/) and I'm keen to finish it because I've been working on my SOLID and TDD processes to reconcile iterative, agile approaches, with the incremental nature of complexity. For each of the projects we've worked on at Makers, I've always found the planning and modelling stages to be secretly really fascinating, and definitely a key predictor of the final build success.|
+| [**A Philosophy of Software Design**](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?ie=UTF8&qid=1524677319&sr=8-3&keywords=john+ousterhout) | John Ousterhoust | The author's conclusion that _"Dealing with complexity is the most important challenge in software design"_ matches my experience so far developing software against seemingly simple user stories! This book was recommended to me after my week of work experience at [Redgate Software](https://www.red-gate.com/) and I'm keen to finish it because I've been working on my SOLID and TDD processes to reconcile iterative, agile approaches, with the incremental nature of complexity. For each of the projects we've worked on at Makers, I've always found the planning and modelling stages to be secretly really fascinating, and definitely a key predictor of the final build success.|
 
 ### Employment history
 
@@ -88,7 +88,7 @@ _Publishing assistant, Customer relations team_ (Jun 2017 to Oct 2018)
 - Internal reporting using MasterVision, DataSalon and Salesforce BI data
 - Working with authors and other stakeholders to meet publication goals for peer-review scientific journals
 
-**Cambridge Assessment** (start-date to end-date)  
+**Cambridge Assessment** (Mar 2015 to Jun 2017)  
 _Product Manager_
 
 - Managing 34 external expert consultants and internal colleagues to deliver a continuous cycle of language assessments
@@ -102,7 +102,7 @@ _Product Manager_
 - Contributing to working groups for improving internal policy and processes
 
 
-**Stanley Park High School** (start-date to end-date)  
+**Stanley Park High School** (sep 2009 to Dec 2014)  
 _Secondary School Teacher, Modern Foreign Languages_
 
 
