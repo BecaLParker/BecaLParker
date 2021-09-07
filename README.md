@@ -1,8 +1,6 @@
 ## Rebecca Parker
 
-I am a career-changer, set to finish the [Makers developer bootcamp](https://makers.tech/about-us/) in July 2021 and enter the tech sector as a Software Engineer. Here I am, making magic happen during my Makers Bootcamp:
-
-<p align="center"><img src="./PXL_20210504_112304441.PORTRAIT.jpg" alt="Photo of BecaLParker WFH" width="50%"/></p>
+I completed the [Makers developer bootcamp](https://makers.tech/about-us/) in July 2021. I now work as a Software Engineer at [Regate Software](https://www.red-gate.com/), where I test and write code as part of a team. We build and improve database tools for our awesome customers.. 
 
 <p align="center"><img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge" width="50%"/></p>
 
@@ -40,11 +38,14 @@ I am a career-changer, set to finish the [Makers developer bootcamp](https://mak
 
 | Title                        | Author            | Notes             |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Learn React**](https://www.codecademy.com/learn/react-101)| Codecademy | I'm using this to learn the basic syntax of JSX and React for an upcoming project. React promises to be a useful tool to add to my existing Javascript single-page-app skills.|
+| [**C# Fundamentals**](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev/table-of-contents)| Scott Allen | I'm using this to cement the fundamentals of C#, which is the primary language of my day-to-day work at Redgate.|
 | [**Explore It!**: Reduce Risk and Increase Confidence with Exploratory Testing](https://pragprog.com/titles/ehxta/explore-it/) | Elisabeth Hendrickson | I'm enjoying this read because I'm interested in becoming a stellar tester, using exploratory testing approaches to analyze and investigate software systems. I've found this an easy and engaging read, because the underlying principles seem to echo those I grew confident discussing and applying to good assessment design in my previous role as a Product Manager for an international exam board.|
 | [**A Philosophy of Software Design**](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?ie=UTF8&qid=1524677319&sr=8-3&keywords=john+ousterhout) | John Ousterhoust | The author's conclusion that _"Dealing with complexity is the most important challenge in software design"_ matches my experience so far developing software against seemingly simple user stories! This book was recommended to me after my week of work experience at [Redgate Software](https://www.red-gate.com/) and I'm keen to finish it because I've been working on my SOLID and TDD processes to reconcile iterative, agile approaches, with the incremental nature of complexity. For each of the projects we've worked on at Makers, I've always found the planning and modelling stages to be secretly really fascinating, and definitely a key predictor of the final build success.|
 
 ### Employment history
+**Redgate Software**
+ _Software Engineer_ (Sept 2021 to current)
+ 
 
 **Royal Society of Chemistry**   
 _Education Executive for trainee teacher scholarship scheme_ (Oct 2018 to Mar 2021)   
