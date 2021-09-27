@@ -1,13 +1,11 @@
 ## Rebecca Parker
 
-I completed the [Makers developer bootcamp](https://makers.tech/about-us/) in July 2021. I now work as a Software Engineer at [Regate Software](https://www.red-gate.com/), where I test and write code as part of a team. We build and improve database tools for our awesome customers.
+I completed the [Makers developer bootcamp](https://makers.tech/about-us/) in July 2021. I now work as a Software Engineer at [Redgate Software](https://www.red-gate.com/), where I test and write code as part of a team. We build and improve database tools for our awesome customers.
 
-<p align="center"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/38993674" alt="Code in production badge"/></p>
+### Badges I've earned
 
-<p align="center"><img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge" width="50%"/></p>
-
-
-<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=BecaLParker&show_icons=true&theme=radical" alt="BecaLParker's Github stats" width"50%"/></p>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/38993674" alt="Code in production badge"/><img src ="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39209756" alt="Presented at show & tell badge"/>
+<img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge" width="100%"/>
 
 
 ## Makers Academy (Apr 2021 to Jul 2021)
