@@ -5,6 +5,7 @@ I completed the [Makers developer bootcamp](https://makers.tech/about-us/) in Ju
 ### Badges I've earned
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/38993674" alt="Code in production badge"/><img src ="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39209756" alt="Presented at show & tell badge"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39482242" alt="Gave a Lightning Talk"/>
 <img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge" width="100%"/>
 
 
