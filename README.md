@@ -2,7 +2,7 @@
 
 I completed the [Makers developer bootcamp](https://makers.tech/about-us/) in July 2021. I now work as a Software Engineer at [Redgate Software](https://www.red-gate.com/), where I test and write code as part of a team. We build and improve database tools for our awesome customers.
 
-My https://pronoun.is/she
+My [pronoun.is/she](https://pronoun.is/she)
 
 ### Badges I've earned
 
