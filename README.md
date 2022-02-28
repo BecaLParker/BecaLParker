@@ -2,6 +2,8 @@
 
 I completed the [Makers developer bootcamp](https://makers.tech/about-us/) in July 2021. I now work as a Software Engineer at [Redgate Software](https://www.red-gate.com/), where I test and write code as part of a team. We build and improve database tools for our awesome customers.
 
+My https://pronoun.is/she
+
 ### Badges I've earned
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/38993674" alt="Code in production badge"/><img src ="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39209756" alt="Presented at show & tell badge"/>
