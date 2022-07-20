@@ -4,6 +4,10 @@ I completed the [Makers developer bootcamp](https://makers.tech/about-us/) in Ju
 
 My [pronoun.is/she](https://pronoun.is/she)
 
+Here's my [insider's take on the exciting changes going on at Redgate Software](https://www.linkedin.com/feed/update/urn:li:activity:6952562266684731392/).
+Or how about a 6min read on [what a typical day is like](https://medium.com/ingeniouslysimple/a-day-in-the-life-of-a-junior-developer-at-redgate-806217d98eed) at Redgate in your first ever Software Engineer job?
+
+
 ### Badges I've earned
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/38993674" alt="Code in production badge"/><img src ="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39209756" alt="Presented at show & tell badge"/>
