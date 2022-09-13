@@ -68,12 +68,6 @@ _Education Executive for trainee teacher scholarship scheme_ (Oct 2018 to Mar 20
 - Unconscious bias mitigation 
 - Events coordination
 
-Find out more about the impact of the scholarship scheme in this video.  
-> (Can you spot me at [1:45](https://youtu.be/5X0yjEV2YvY?t=104)?!)
-
-[![Impact of scholarship scheme](https://img.youtube.com/vi/5X0yjEV2YvY/0.jpg)](https://www.youtube.com/watch?v=5X0yjEV2YvY)
-
-
 _Publishing assistant, Customer relations team_ (Jun 2017 to Oct 2018)
 - Subscription-model customer relations
 - Internal reporting using MasterVision, DataSalon and Salesforce BI data
