@@ -37,7 +37,7 @@ Or how about a 6min read on [what a typical day is like](https://medium.com/inge
 |  	|  	|  	|
 |-	|-	|-	|
 | Operating systems: <br><li> OSX and Windows<br><br> 	| Terminal:<br><li> comfortable on Linux command line<br><li> strong git command line<br><li> some basic Powershell knowledge 	|  	|
-| Languages (in order of proficiency): <br><li> Ruby <br><li> Javascript<br><li> SQL <br><li> C#<br><li> TypeScript 	| Testing syntax and frameworks:<br><li> RSPEC (Ruby)<br><li> Capybara (Web UI testing)<br><li> Jasmine (Javascript)<br><li> Pester (Powershell) 	| Web: <br>REACT<br>Ruby on Rails <br>HTML<br>CSS 	|
+| Languages (in order of proficiency): <br><li> C#<br><li> TypeScript<br><li> Ruby <br><li> Javascript<br><li> SQL  	| Testing syntax and frameworks:<br><li> RSPEC (Ruby)<br><li> Capybara (Web UI testing)<br><li> Jasmine (Javascript)<br><li> Pester (Powershell) 	| Web: <br>REACT<br>Ruby on Rails <br>HTML<br>CSS 	|
 
 > Take a look through [my GitHub repos](https://github.com/BecaLParker?tab=repositories) or [my Codewars solutions](https://www.codewars.com/users/BecaLParker/completed_solutions) to get a feel for my work in these languages.  
   
