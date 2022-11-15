@@ -4,8 +4,7 @@ I completed the [Makers developer bootcamp](https://makers.tech/about-us/) in Ju
 
 My [pronoun.is/she](https://pronoun.is/she)
 
-Here's my [insider's take on the exciting changes going on at Redgate Software](https://www.linkedin.com/feed/update/urn:li:activity:6952562266684731392/).
-Or how about a 6min read on [what a typical day is like](https://medium.com/ingeniouslysimple/a-day-in-the-life-of-a-junior-developer-at-redgate-806217d98eed) at Redgate in your first ever Software Engineer job?
+Here's a 6min read on [what a typical day is like](https://medium.com/ingeniouslysimple/a-day-in-the-life-of-a-junior-developer-at-redgate-806217d98eed) at Redgate in your first ever Software Engineer job?
 
 
 ### Badges I've earned
@@ -108,6 +107,3 @@ _Secondary School Teacher, Modern Foreign Languages_
 ## Hobbies
 
 Away from my desk, I recharge by running, gardening, reading and catching up on boxsets.
-
-I love getting to know a new workteam through things like quizzes, boardgames, escape-rooms and karaoke.
-
