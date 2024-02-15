@@ -9,6 +9,8 @@ Here's a 6min read on [what a typical day is like](https://medium.com/ingeniousl
 
 ### Badges I've earned
 
+<img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/a14ddb7f-4dc1-4015-b0be-0b6a69b6f940" alt ="Modern Engineering Practices
+Issued by O'Reilly Media"/>
 <img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/26d11483-5f06-42c2-8611-c7dbb34f455e" alt ="Writing Better SQL
 Issued by O'Reilly Media"/>
 <img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/60d9cff8-608b-47da-b50f-332007400b64" alt ="Linear Algebra ML
