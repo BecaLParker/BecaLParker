@@ -9,12 +9,12 @@ Here's a 6min read on [what a typical day is like](https://medium.com/ingeniousl
 
 ### Badges I've earned
 
-<img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/a14ddb7f-4dc1-4015-b0be-0b6a69b6f940" alt ="Modern Engineering Practices
-Issued by O'Reilly Media"/>
-<img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/26d11483-5f06-42c2-8611-c7dbb34f455e" alt ="Writing Better SQL
-Issued by O'Reilly Media"/>
-<img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/60d9cff8-608b-47da-b50f-332007400b64" alt ="Linear Algebra ML
-Issued by O'Reilly Media"/>  
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/38993674" alt="Code in production badge"/><img src ="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39209756" alt="Presented at show & tell badge"/>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39482242" alt="Gave a Lightning Talk"/>
-<img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge" width="100%"/>
+<img src="https://github.com/user-attachments/assets/5ff43d94-1e0f-424e-ac31-9523e7b8eaf2" alt="Refactoring Legacy Code Issued by O'Reilly Media" style="width:204px; height:204px;"/> 
+<img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/a14ddb7f-4dc1-4015-b0be-0b6a69b6f940" alt="Modern Engineering Practices Issued by O'Reilly Media" style="width:204px; height:204px;"/>
+<img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/26d11483-5f06-42c2-8611-c7dbb34f455e" alt="Writing Better SQL Issued by O'Reilly Media" style="width:204px; height:204px;"/>
+<img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/60d9cff8-608b-47da-b50f-332007400b64" alt="Linear Algebra ML Issued by O'Reilly Media" style="width:204px; height:204px;"/>  
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/38993674" alt="Code in production badge" style="width:204px; height:204px;"/>  
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39209756" alt="Presented at show & tell badge" style="width:204px; height:204px;"/>  
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/39482242" alt="Gave a Lightning Talk" style="width:204px; height:204px;"/>  
+<img src="https://www.codewars.com/users/BecaLParker/badges/small" alt="BecaLParker's Codewars badge">  
+
