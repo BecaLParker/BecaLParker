@@ -13,6 +13,9 @@ Here's a 6min read on [what a typical day is like](https://medium.com/ingeniousl
 
 <table border=0>
   <tr>
+    <td><img src= "https://github.com/user-attachments/assets/2d58aa87-3ac9-4878-bd9f-21aa77537c6b" alt="system Design Fundamentals Issued by O'Reilly Media" style="width:204px; height:204px;"/>
+  </tr>
+  <tr>
     <td><img src="https://github.com/user-attachments/assets/ed912cc1-19be-4c14-8431-a83277984cdb" alt="Learning Systems Thinking Issued by O'Reilly Media" style="width:204px; height:204px;"/>
     <td><img src="https://github.com/user-attachments/assets/5ff43d94-1e0f-424e-ac31-9523e7b8eaf2" alt="Refactoring Legacy Code Issued by O'Reilly Media" style="width:204px; height:204px;"/></td>
     <td><img src="https://github.com/BecaLParker/BecaLParker/assets/75490778/a14ddb7f-4dc1-4015-b0be-0b6a69b6f940" alt="Modern Engineering Practices Issued by O'Reilly Media" style="width:204px; height:204px;"/></td>
