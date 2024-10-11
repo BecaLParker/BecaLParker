@@ -13,8 +13,8 @@ Here's a 6min read on [what a typical day is like](https://medium.com/ingeniousl
 
 <table border=0>
   <tr>
-    <td><img src= "https://github.com/user-attachments/assets/2d58aa87-3ac9-4878-bd9f-21aa77537c6b" alt="system Design Fundamentals Issued by O'Reilly Media" style="width:204px; height:204px;"/></td>
-    <td><imag src="https://github.com/user-attachments/assets/65b4d77a-c499-4405-a31c-f5a36607fff8" alt="AWS Security learning plan"style=width:204px; hieght204px;"></td>
+    <td><img src="https://github.com/user-attachments/assets/2d58aa87-3ac9-4878-bd9f-21aa77537c6b" alt="System Design Fundamentals Issued by O'Reilly Media" style="width:204px; height:204px;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/65b4d77a-c499-4405-a31c-f5a36607fff8" alt="AWS Security learning plan" style="width:204px; height:204px;"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ed912cc1-19be-4c14-8431-a83277984cdb" alt="Learning Systems Thinking Issued by O'Reilly Media" style="width:204px; height:204px;"/></td>
